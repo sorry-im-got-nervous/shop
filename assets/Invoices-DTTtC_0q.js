@@ -1,0 +1,1 @@
+import{_ as t,i as n,c as r,o as a,a as c}from"./index-CFLgoHFM.js";const _={setup(){n((e,o)=>{if(!window.confirm("Вы действительно хотите уйти?"))return!1})}},i=c("h1",null,"Покупки",-1),f=[i];function d(e,o,s,l,p,u){return a(),r("div",null,f)}const h=t(_,[["render",d]]);export{h as default};
