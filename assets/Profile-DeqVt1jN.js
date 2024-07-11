@@ -1,1 +1,0 @@
-import{_ as e,c as o,o as s,a as c}from"./index-CagO5pva.js";const t={},_={class:"home"},n=c("h1",null,"Здесь будет информация о магазине",-1),a=[n];function r(d,i){return s(),o("div",_,a)}const f=e(t,[["render",r]]);export{f as default};
